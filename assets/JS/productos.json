@@ -158,5 +158,13 @@
             "id": "Accesorios"
         },
         "precio": 1000
-    }
+    },
+    { "id": "Leashes",
+    "titulo": "Pita 6'",
+    "imagen": "./assets/Imagenes/Accesorios/Surf.Leashes/6.png",
+    "categoria": {
+        "nombre": "Poncho",
+        "id": "Accesorios"
+    },
+    "precio": 1000}
 ]
