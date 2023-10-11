@@ -50,6 +50,15 @@ aside {
     font-weight: 400;
     font-size: 1.3rem;
 }
+.laOla{
+    padding: 2rem;
+    height: 25vh;
+    border-radius: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
 
 .menu {
     display: flex;
