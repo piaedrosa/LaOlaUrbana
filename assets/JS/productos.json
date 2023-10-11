@@ -52,7 +52,7 @@
     {   
         "id": "Quillas",
         "titulo": "Quilla FSC System",
-        "imagen": "./assets/Imagenes/Quillas/Plastico/FSC.png",
+        "imagen": "./assets/Imagenes/Quillas/Plastico/FCS.png",
        "categoria": {
             "nombre": "Quillas",
             "id": "Quillas"
@@ -72,7 +72,7 @@
     {   
         "id": "Quillas",
         "titulo": "Llave Allen",
-        "imagen": "./assets/Imagenes/Quillas/Plastico/LlaveAllen.png",
+        "imagen": "./assets/Imagenes/Quillas/Plastico/LlaveAllen.Jpg",
        "categoria": {
             "nombre": "Quillas",
             "id": "Quillas"
@@ -103,7 +103,7 @@
     {   
         "id": "Cambiadores",
         "titulo": "Change Pura Vida",
-        "imagen": ".assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraCida.jpg",
+        "imagen": ".assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
        "categoria": {
             "nombre": "Cambiadores",
             "id": "Cambiadores"
