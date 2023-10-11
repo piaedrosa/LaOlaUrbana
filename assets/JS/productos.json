@@ -85,7 +85,7 @@
         "titulo": "Change Mat Azul",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
        "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Cambiadores"
         },
         "precio": 1000
@@ -95,7 +95,7 @@
         "titulo": "Change Mat Celeste",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
        "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Cambiadores"
         },
         "precio": 1000
@@ -105,7 +105,7 @@
         "titulo": "Change Mat Pura Vida",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
        "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Cambiadores"
         },
         "precio": 1000
@@ -115,7 +115,7 @@
         "titulo": "Change Mat Tropical",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
        "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Cambiadores"
         },
         "precio": 1000
@@ -125,7 +125,7 @@
         "titulo": "Poncho Amazonas",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
        "categoria": {
-            "nombre": "Ponchos",
+            "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
@@ -135,7 +135,7 @@
         "titulo": "Poncho Nativo",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
        "categoria": {
-            "nombre": "Ponchos",
+            "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
@@ -145,7 +145,7 @@
         "titulo": "Poncho Octopus",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
        "categoria": {
-            "nombre": "Ponchos",
+            "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
@@ -155,7 +155,7 @@
         "titulo": "Poncho Waves",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
        "categoria": {
-            "nombre": "Ponchos",
+            "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
