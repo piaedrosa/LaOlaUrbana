@@ -35,7 +35,7 @@ a {
 }
 
 aside {
-    padding: 2rem;
+    padding: 2  rem;
     padding-right: 0;
     color: var(--clr-white);
     position: sticky;
@@ -245,6 +245,7 @@ main {
 .carrito-acciones {
     display: flex;
     justify-content: space-between;
+    
 }
 
 .carrito-acciones-vaciar {

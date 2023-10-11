@@ -2,7 +2,7 @@
     {
         "id": "Parafina",
         "titulo": "Parafina Summer",
-        "imagen": "./assets/Imagenes/Wax/ParafinaSummer.jpg", 
+        "imagen": "./assets/Imagenes/Wax/ParafinaSummer.jpg",
         "categoria": {
             "nombre": "Parafina",
             "id": "Parafina"
@@ -12,7 +12,7 @@
     {
         "id": "Parafina",
         "titulo": "Parafina Hot Summer",
-        "imagen": "./assets/Imagenes/Wax/ParafinaHotSummer.jpg", 
+        "imagen": "./assets/Imagenes/Wax/ParafinaHotSummer.jpg",
         "categoria": {
             "nombre": "Parafina",
             "id": "Parafina"
@@ -22,7 +22,7 @@
     {
         "id": "Parafina",
         "titulo": "Parafina Ultra Stick",
-        "imagen": "./assets/Imagenes/Wax/ParafinaUltraStick.jpg", 
+        "imagen": "./assets/Imagenes/Wax/ParafinaUltraStick.jpg",
         "categoria": {
             "nombre": "Parafina",
             "id": "Parafina"
@@ -32,7 +32,7 @@
     {
         "id": "Parafina",
         "titulo": "Parafina Winter",
-        "imagen": "./assets/Imagenes/Wax/ParafinaWinter.jpg", 
+        "imagen": "./assets/Imagenes/Wax/ParafinaWinter.jpg",
         "categoria": {
             "nombre": "Parafina",
             "id": "Parafina"
@@ -42,123 +42,121 @@
     {
         "id": "Parafina",
         "titulo": "Removedor de Parafina",
-        "imagen": "./assets/Imagenes/Wax/WaxRemover.jpg", 
+        "imagen": "./assets/Imagenes/Wax/WaxRemover.jpg",
         "categoria": {
             "nombre": "Parafina",
             "id": "Parafina"
         },
         "precio": 3500
     },
-    {   
+    {
         "id": "Quillas",
         "titulo": "Quilla FSC System",
         "imagen": "./assets/Imagenes/Quillas/Plastico/FCS.png",
-       "categoria": {
+        "categoria": {
             "nombre": "Quillas",
             "id": "Quillas"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Quillas",
         "titulo": "Quilla Future System",
         "imagen": "./assets/Imagenes/Quillas/Plastico/future.png",
-       "categoria": {
+        "categoria": {
             "nombre": "Quillas",
             "id": "Quillas"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Quillas",
         "titulo": "Llave Allen",
         "imagen": "./assets/Imagenes/Quillas/Plastico/LlaveAllen.jpg",
-       "categoria": {
+        "categoria": {
             "nombre": "Quillas",
             "id": "Quillas"
         },
         "precio": 1000
     },
-    
-    {   
+    {
         "id": "Cambiadores",
         "titulo": "Change Mat Azul",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
-       "categoria": {
-            "nombre": "Accesorios",
-            "id": "Cambiadores"
+        "categoria": {
+            "nombre": "Cambiadores",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Cambiadores",
         "titulo": "Change Mat Celeste",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
-       "categoria": {
-            "nombre": "Accesorios",
-            "id": "Cambiadores"
+        "categoria": {
+            "nombre": "Cambiadores",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Cambiadores",
         "titulo": "Change Mat Pura Vida",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
-       "categoria": {
-            "nombre": "Accesorios",
-            "id": "Cambiadores"
+        "categoria": {
+            "nombre": "Cambiadores",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Cambiadores",
         "titulo": "Change Mat Tropical",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
-       "categoria": {
-            "nombre": "Accesorios",
-            "id": "Cambiadores"
+        "categoria": {
+            "nombre": "Cambiadores",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Ponchos",
         "titulo": "Poncho Amazonas",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
-       "categoria": {
-            "nombre": "Accesorios",
+        "categoria": {
+            "nombre": "Cambiadores",
             "id": "Ponchos"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Ponchos",
         "titulo": "Poncho Nativo",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
-       "categoria": {
+        "categoria": {
             "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Ponchos",
         "titulo": "Poncho Octopus",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
-       "categoria": {
+        "categoria": {
             "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
     },
-    {   
+    {
         "id": "Ponchos",
         "titulo": "Poncho Waves",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
-       "categoria": {
+        "categoria": {
             "nombre": "Accesorios",
             "id": "Ponchos"
         },
         "precio": 1000
     }
-
-   ]
+]
