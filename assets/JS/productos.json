@@ -72,7 +72,7 @@
     {   
         "id": "Quillas",
         "titulo": "Llave Allen",
-        "imagen": "./assets/Imagenes/Quillas/Plastico/LlaveAllen.Jpg",
+        "imagen": "./assets/Imagenes/Quillas/Plastico/LlaveAllen.jpg",
        "categoria": {
             "nombre": "Quillas",
             "id": "Quillas"
@@ -83,7 +83,7 @@
     {   
         "id": "Cambiadores",
         "titulo": "Change Mat Azul",
-        "imagen": ".assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
        "categoria": {
             "nombre": "Cambiadores",
             "id": "Cambiadores"
@@ -93,7 +93,7 @@
     {   
         "id": "Cambiadores",
         "titulo": "Change Mat Celeste",
-        "imagen": ".assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
        "categoria": {
             "nombre": "Cambiadores",
             "id": "Cambiadores"
@@ -103,7 +103,7 @@
     {   
         "id": "Cambiadores",
         "titulo": "Change Mat Pura Vida",
-        "imagen": ".assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
        "categoria": {
             "nombre": "Cambiadores",
             "id": "Cambiadores"
@@ -113,7 +113,7 @@
     {   
         "id": "Cambiadores",
         "titulo": "Change Mat Tropical",
-        "imagen": ".assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
        "categoria": {
             "nombre": "Cambiadores",
             "id": "Cambiadores"
@@ -123,7 +123,7 @@
     {   
         "id": "Ponchos",
         "titulo": "Poncho Amazonas",
-        "imagen": ".assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
        "categoria": {
             "nombre": "Ponchos",
             "id": "Ponchos"
@@ -133,7 +133,7 @@
     {   
         "id": "Ponchos",
         "titulo": "Poncho Nativo",
-        "imagen": ".assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
        "categoria": {
             "nombre": "Ponchos",
             "id": "Ponchos"
@@ -143,7 +143,7 @@
     {   
         "id": "Ponchos",
         "titulo": "Poncho Octopus",
-        "imagen": ".assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
        "categoria": {
             "nombre": "Ponchos",
             "id": "Ponchos"
@@ -153,7 +153,7 @@
     {   
         "id": "Ponchos",
         "titulo": "Poncho Waves",
-        "imagen": ".assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
+        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
        "categoria": {
             "nombre": "Ponchos",
             "id": "Ponchos"
