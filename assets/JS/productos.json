@@ -124,8 +124,8 @@
         "titulo": "Poncho Amazonas",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
         "categoria": {
-            "nombre": "Cambiadores",
-            "id": "Ponchos"
+            "nombre": "Poncho",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
@@ -134,8 +134,8 @@
         "titulo": "Poncho Nativo",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
         "categoria": {
-            "nombre": "Accesorios",
-            "id": "Ponchos"
+            "nombre": "Poncho",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
@@ -144,8 +144,8 @@
         "titulo": "Poncho Octopus",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
         "categoria": {
-            "nombre": "Accesorios",
-            "id": "Ponchos"
+            "nombre": "Poncho",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
@@ -154,8 +154,8 @@
         "titulo": "Poncho Waves",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
         "categoria": {
-            "nombre": "Accesorios",
-            "id": "Ponchos"
+            "nombre": "Poncho",
+            "id": "Accesorios"
         },
         "precio": 1000
     }
