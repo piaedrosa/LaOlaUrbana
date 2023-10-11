@@ -80,7 +80,7 @@
         "precio": 1000
     },
     {
-        "id": "Cambiadores",
+        "id": "Accesorios",
         "titulo": "Change Mat Azul",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
         "categoria": {
@@ -90,7 +90,7 @@
         "precio": 1000
     },
     {
-        "id": "Cambiadores",
+        "id": "Accesorios",
         "titulo": "Change Mat Celeste",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
         "categoria": {
@@ -100,7 +100,7 @@
         "precio": 1000
     },
     {
-        "id": "Cambiadores",
+        "id": "Accesorios",
         "titulo": "Change Mat Pura Vida",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
         "categoria": {
@@ -110,7 +110,7 @@
         "precio": 1000
     },
     {
-        "id": "Cambiadores",
+        "id": "Accesorios",
         "titulo": "Change Mat Tropical",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
         "categoria": {
@@ -120,7 +120,7 @@
         "precio": 1000
     },
     {
-        "id": "Ponchos",
+        "id": "Accesorios",
         "titulo": "Poncho Amazonas",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
         "categoria": {
@@ -130,7 +130,7 @@
         "precio": 1000
     },
     {
-        "id": "Ponchos",
+        "id": "Accesorios",
         "titulo": "Poncho Nativo",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
         "categoria": {
@@ -140,7 +140,7 @@
         "precio": 1000
     },
     {
-        "id": "Ponchos",
+        "id": "Accesorios",
         "titulo": "Poncho Octopus",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
         "categoria": {
@@ -150,7 +150,7 @@
         "precio": 1000
     },
     {
-        "id": "Ponchos",
+        "id": "Accesorios",
         "titulo": "Poncho Waves",
         "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
         "categoria": {
