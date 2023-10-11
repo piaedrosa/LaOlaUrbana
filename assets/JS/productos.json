@@ -2,7 +2,7 @@
     {
         "id": "Parafinas",
         "titulo": "Parafina Summer",
-        "imagen": "./assets/Imagenes/Wax/ParafinaSummer.jpg",
+        "imagen": "./assets/Imagenes/Parafinas/ParafinaSummer.jpg",
         "categoria": {
             "nombre": "Parafinas",
             "id": "Parafinas"
@@ -12,7 +12,7 @@
     {
         "id": "Parafinas",
         "titulo": "Parafina Hot Summer",
-        "imagen": "./assets/Imagenes/Wax/ParafinaHotSummer.jpg",
+        "imagen": "./assets/Imagenes/Parafinas/ParafinaHotSummer.jpg",
         "categoria": {
             "nombre": "Parafinas",
             "id": "Parafinas"
@@ -22,7 +22,7 @@
     {
         "id": "Parafinas",
         "titulo": "Parafina Ultra Stick",
-        "imagen": "./assets/Imagenes/Wax/ParafinaUltraStick.jpg",
+        "imagen": "./assets/Imagenes/Parafinas/ParafinaUltraStick.jpg",
         "categoria": {
             "nombre": "Parafinas",
             "id": "Parafinas"
@@ -32,7 +32,7 @@
     {
         "id": "Parafinas",
         "titulo": "Parafina Winter",
-        "imagen": "./assets/Imagenes/Wax/ParafinaWinter.jpg",
+        "imagen": "./assets/Imagenes/Parafinas/ParafinaWinter.jpg",
         "categoria": {
             "nombre": "Parafinas",
             "id": "Parafinas"
@@ -42,7 +42,7 @@
     {
         "id": "Parafinas",
         "titulo": "Removedor de Parafina",
-        "imagen": "./assets/Imagenes/Wax/WaxRemover.jpg",
+        "imagen": "./assets/Imagenes/Parafinas/WaxRemover.jpg",
         "categoria": {
             "nombre": "Parafinas",
             "id": "Parafinas"
