@@ -84,7 +84,7 @@
         "titulo": "Change Mat Azul",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
         "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
@@ -94,7 +94,7 @@
         "titulo": "Change Mat Celeste",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
         "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
@@ -104,7 +104,7 @@
         "titulo": "Change Mat Pura Vida",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
         "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
@@ -114,7 +114,7 @@
         "titulo": "Change Mat Tropical",
         "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
         "categoria": {
-            "nombre": "Cambiadores",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
