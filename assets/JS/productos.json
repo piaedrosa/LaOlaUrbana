@@ -4,7 +4,7 @@
         "titulo": "Parafina Summer",
         "imagen": "./assets/Imagenes/Wax/ParafinaSummer.jpg",
         "categoria": {
-            "nombre": "Parafina",
+            "nombre": "Parafinas",
             "id": "Parafinas"
         },
         "precio": 3500
@@ -14,7 +14,7 @@
         "titulo": "Parafina Hot Summer",
         "imagen": "./assets/Imagenes/Wax/ParafinaHotSummer.jpg",
         "categoria": {
-            "nombre": "Parafina",
+            "nombre": "Parafinas",
             "id": "Parafinas"
         },
         "precio": 3500
@@ -24,7 +24,7 @@
         "titulo": "Parafina Ultra Stick",
         "imagen": "./assets/Imagenes/Wax/ParafinaUltraStick.jpg",
         "categoria": {
-            "nombre": "Parafina",
+            "nombre": "Parafinas",
             "id": "Parafinas"
         },
         "precio": 3500
@@ -34,7 +34,7 @@
         "titulo": "Parafina Winter",
         "imagen": "./assets/Imagenes/Wax/ParafinaWinter.jpg",
         "categoria": {
-            "nombre": "Parafina",
+            "nombre": "Parafinas",
             "id": "Parafinas"
         },
         "precio": 3500
@@ -44,7 +44,7 @@
         "titulo": "Removedor de Parafina",
         "imagen": "./assets/Imagenes/Wax/WaxRemover.jpg",
         "categoria": {
-            "nombre": "Parafina",
+            "nombre": "Parafinas",
             "id": "Parafinas"
         },
         "precio": 3500
@@ -164,7 +164,7 @@
         "titulo": "Pita 6'",
         "imagen": "./assets/Imagenes/Pitas/6.png",
         "categoria": {
-            "nombre": "Leashes",
+            "nombre": "Pitas",
             "id": "Pitas"
         },
         "precio": 1000
@@ -174,7 +174,7 @@
         "titulo": "Pita 7'",
         "imagen": "./assets/Imagenes/Pitas/7.png",
         "categoria": {
-            "nombre": "Leashes",
+            "nombre": "Pitas",
             "id": "Pitas"
         },
         "precio": 1000
@@ -184,7 +184,7 @@
         "titulo": "Pita 9'",
         "imagen": "./assets/Imagenes/Pitas/9.png",
         "categoria": {
-            "nombre": "Leashes",
+            "nombre": "Pitas",
             "id": "Pitas"
         },
         "precio": 1000
@@ -194,7 +194,7 @@
         "titulo": "Pita 10'",
         "imagen": "./assets/Imagenes/Pitas/10.png",
         "categoria": {
-            "nombre": "Leashes",
+            "nombre": "Pitas",
             "id": "Pitas"
         },
         "precio": 1000
