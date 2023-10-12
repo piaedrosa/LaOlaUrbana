@@ -1,5 +1,3 @@
-
-
 let productos = [];
 
 fetch("./assets/JS/productos.json")
