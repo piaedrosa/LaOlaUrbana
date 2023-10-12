@@ -6,7 +6,7 @@
     --clr-main-light: #314A5F;
     --clr-white:#E3DDD1;
     --clr-gray: #A9ADAD;
-    --clr-red: #961818;
+    --clr-red: #274158ff;
 }
 
 * {
@@ -50,11 +50,14 @@ aside {
 .logo {
     font-weight: 400;
     font-size: 1.3rem;
-}
-.laOla{
     padding: 2rem;
+}
+.LaOla{
+    margin-left: 1rem;
+    padding: 1rem;
     height: 25vh;
     border-radius: 200px;
+    border: 2px solid var(--clr-gray);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
