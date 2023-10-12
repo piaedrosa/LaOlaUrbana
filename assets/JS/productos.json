@@ -83,7 +83,7 @@
     {
         "id": "Leash 6'",
         "titulo": "Leash 6'",
-        "imagen": "./assets/img/Leashes/6.png",
+        "imagen": "./assets/img/Leashes/6.jpg",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
@@ -93,7 +93,17 @@
     {
         "id": "Leash 7'",
         "titulo": "Leash 7'",
-        "imagen": "./assets/img/Leashes/7.png",
+        "imagen": "./assets/img/Leashes/7.jpg",
+        "categoria": {
+            "nombre": "Leashes",
+            "id": "Leashes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Leash 8'",
+        "titulo": "Leash 8'",
+        "imagen": "./assets/img/Leashes/8.Jpg",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
@@ -103,23 +113,14 @@
     {
         "id": "Leash 9'",
         "titulo": "Leash 9'",
-        "imagen": "./assets/img/Leashes/9.png",
+        "imagen": "./assets/img/Leashes/9.jpg",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
         },
         "precio": 1000
     },
-    {
-        "id": "Leash 10'",
-        "titulo": "Leash 10'",
-        "imagen": "./assets/img/Leashes/10.png",
-        "categoria": {
-            "nombre": "Leashes",
-            "id": "Leashes"
-        },
-        "precio": 1000
-    },
+    
     {
         "id": "Parafina Hot Summer",
         "titulo": "Parafina Hot Summer",
