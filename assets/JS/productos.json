@@ -1,98 +1,18 @@
 [
     {
-        "id": "Parafinas",
-        "titulo": "Parafina Summer",
-        "imagen": "./assets/Imagenes/Parafinas/ParafinaSummer.jpg",
-        "categoria": {
-            "nombre": "Parafinas",
-            "id": "Parafinas"
-        },
-        "precio": 3500
-    },
-    {
-        "id": "Parafinas",
-        "titulo": "Parafina Hot Summer",
-        "imagen": "./assets/Imagenes/Parafinas/ParafinaHotSummer.jpg",
-        "categoria": {
-            "nombre": "Parafinas",
-            "id": "Parafinas"
-        },
-        "precio": 3500
-    },
-    {
-        "id": "Parafinas",
-        "titulo": "Parafina Ultra Stick",
-        "imagen": "./assets/Imagenes/Parafinas/ParafinaUltraStick.jpg",
-        "categoria": {
-            "nombre": "Parafinas",
-            "id": "Parafinas"
-        },
-        "precio": 3500
-    },
-    {
-        "id": "Parafinas",
-        "titulo": "Parafina Winter",
-        "imagen": "./assets/Imagenes/Parafinas/ParafinaWinter.jpg",
-        "categoria": {
-            "nombre": "Parafinas",
-            "id": "Parafinas"
-        },
-        "precio": 3500
-    },
-    {
-        "id": "Parafinas",
-        "titulo": "Removedor de Parafina",
-        "imagen": "./assets/Imagenes/Parafinas/WaxRemover.jpg",
-        "categoria": {
-            "nombre": "Parafinas",
-            "id": "Parafinas"
-        },
-        "precio": 3500
-    },
-    {
-        "id": "Quillas",
-        "titulo": "Quilla FSC System",
-        "imagen": "./assets/Imagenes/Quillas/Plastico/FCS.png",
-        "categoria": {
-            "nombre": "Quillas",
-            "id": "Quillas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "Quillas",
-        "titulo": "Quilla Future System",
-        "imagen": "./assets/Imagenes/Quillas/Plastico/future.png",
-        "categoria": {
-            "nombre": "Quillas",
-            "id": "Quillas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "Quillas",
-        "titulo": "Llave Allen",
-        "imagen": "./assets/Imagenes/Quillas/Plastico/LlaveAllen.jpg",
-        "categoria": {
-            "nombre": "Quillas",
-            "id": "Quillas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "Accesorios",
+        "id": "Change Mat Azul",
         "titulo": "Change Mat Azul",
-        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatAzul.jpg",
+        "imagen": "./assets/img/Accesorios/Cambiadores/ChangeMatAzul.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
         },
-        "precio": 1000
+        "precio": 7000
     },
     {
-        "id": "Accesorios",
+        "id": "Change Mat Celeste",
         "titulo": "Change Mat Celeste",
-        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
+        "imagen": "./assets/img/Accesorios/Cambiadores/ChangeMatCeleste.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
@@ -100,9 +20,9 @@
         "precio": 1000
     },
     {
-        "id": "Accesorios",
+        "id": "Change Mat Pura Vida",
         "titulo": "Change Mat Pura Vida",
-        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
+        "imagen": "./assets/img/Accesorios/Cambiadores/ChangeMatPuraVida.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
@@ -110,9 +30,9 @@
         "precio": 1000
     },
     {
-        "id": "Accesorios",
+        "id": "Change Mat Tropical",
         "titulo": "Change Mat Tropical",
-        "imagen": "./assets/Imagenes/Accesorios/Cambiadores/ChangeMatTropical.jpg",
+        "imagen": "./assets/img/Accesorios/Cambiadores/ChangeMatTropical.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
@@ -120,11 +40,11 @@
         "precio": 1000
     },
     {
-        "id": "Accesorios",
+        "id": "Poncho Amazonas",
         "titulo": "Poncho Amazonas",
-        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoAmazonas.jpg",
+        "imagen": "./assets/img/Accesorios/Ponchos/PonchoAmazonas.jpg",
         "categoria": {
-            "nombre": "Poncho",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
@@ -132,9 +52,9 @@
     {
         "id": "Accesorios",
         "titulo": "Poncho Nativo",
-        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoNativo.jpg",
+        "imagen": "./assets/img/Accesorios/Ponchos/PonchoNativo.jpg",
         "categoria": {
-            "nombre": "Poncho",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
@@ -142,9 +62,9 @@
     {
         "id": "Accesorios",
         "titulo": "Poncho Octopus",
-        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoOctopus.jpg",
+        "imagen": "./assets/img/Accesorios/Ponchos/PonchoOctopus.jpg",
         "categoria": {
-            "nombre": "Poncho",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
@@ -152,17 +72,18 @@
     {
         "id": "Accesorios",
         "titulo": "Poncho Waves",
-        "imagen": "./assets/Imagenes/Accesorios/Ponchos/PonchoWaves.jpg",
+        "imagen":"./assets/img/Accesorios/Ponchos/PonchoWaves.jpg",
         "categoria": {
-            "nombre": "Poncho",
+            "nombre": "Accesorios",
             "id": "Accesorios"
         },
         "precio": 1000
     },
+   
     {
-        "id": "Leashes",
-        "titulo": "Pita 6'",
-        "imagen": "./assets/Imagenes/Leashes/6.png",
+        "id": "Leash 6'",
+        "titulo": "Leash 6'",
+        "imagen": "./assets/img/Leashes/6.png",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
@@ -170,9 +91,9 @@
         "precio": 1000
     },
     {
-        "id": "Leashes",
-        "titulo": "Pita 7'",
-        "imagen": "./assets/Imagenes/Leashes/7.png",
+        "id": "Leash 7'",
+        "titulo": "Leash 7'",
+        "imagen": "./assets/img/Leashes/7.png",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
@@ -180,9 +101,9 @@
         "precio": 1000
     },
     {
-        "id": "Leashes",
-        "titulo": "Pita 9'",
-        "imagen": "./assets/Imagenes/Leashes/9.png",
+        "id": "Leash 9'",
+        "titulo": "Leash 9'",
+        "imagen": "./assets/img/Leashes/9.png",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
@@ -190,13 +111,93 @@
         "precio": 1000
     },
     {
-        "id": "Leashes",
-        "titulo": "Pita 10'",
-        "imagen": "./assets/Imagenes/Leashes/10.png",
+        "id": "Leash 10'",
+        "titulo": "Leash 10'",
+        "imagen": "./assets/img/Leashes/10.png",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
         },
         "precio": 1000
-    }
+    },
+    {
+        "id": "Parafina Hot Summer",
+        "titulo": "Parafina Hot Summer",
+        "imagen": "./assets/img/Parafinas/ParafinaHotSummer.jpg",
+        "categoria": {
+            "nombre": "parafinas",
+            "id": "Parafinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Parafina Summer",
+        "titulo": "Parafina Summer",
+        "imagen": "./assets/img/Parafinas/ParafinaSummer.jpg",
+        "categoria": {
+            "nombre": "parafinas",
+            "id": "Parafinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Parafina Ultra Stick",
+        "titulo": "Parafina Ultra Stick",
+        "imagen": "./assets/img/Parafinas/ParafinaUltraStick.jpg",
+        "categoria": {
+            "nombre": "parafinas",
+            "id": "Parafinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Parafina Winter",
+        "titulo": "Parafina Winter",
+        "imagen": "./assets/img/Parafinas/ParafinaWinter.jpg",
+        "categoria": {
+            "nombre": "parafinas",
+            "id": "Parafinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Removedor de Parafina",
+        "titulo": "Removedor de Parafina",
+        "imagen": "./assets/img/Parafinas/WaxRemover.jpg",
+        "categoria": {
+            "nombre": "parafinas",
+            "id": "Parafinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Quillas Plastica FCS",
+        "titulo": "Quilla Plastica FCS",
+        "imagen": "./assets/img/Quillas/Plastico/FCS.png",
+        "categoria": {
+            "nombre": "quillas",
+            "id": "Quillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Quilla Plastica Future",
+        "titulo": "Quilla Plastica Future",
+        "imagen": "./assets/img/Quillas/Plastico/future.png",
+        "categoria": {
+            "nombre": "quillas",
+            "id": "Quillas"
+        },
+        "precio": 1000
+    },   
+    {
+        "id": "Llave Allen",
+        "titulo": "Llave Allen",
+        "imagen": "./assets/img/Quillas/Plastico/LlaveAllen.jpg",
+        "categoria": {
+            "nombre": "quillas",
+            "id": "Quillas"
+        },
+        "precio": 1000
+    }   
 ]

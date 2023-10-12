@@ -5,7 +5,7 @@ fetch("./assets/JS/productos.json")
     .then(data => {
         productos = data;
         cargarProductos(productos);
-    });
+    })
 
 
 const contenedorProductos = document.querySelector("#contenedor-productos");
@@ -59,7 +59,7 @@ botonesCategorias.forEach(boton => {
             tituloPrincipal.innerText = "Todos los productos";
             cargarProductos(productos);
         }
- 
+
     })
 });
 
@@ -92,7 +92,7 @@ function agregarAlCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right, #314A5F, #314A5F )",
+          background: "linear-gradient(to right, #4b33a8, #785ce9)",
           borderRadius: "2rem",
           textTransform: "uppercase",
           fontSize: ".75rem"
