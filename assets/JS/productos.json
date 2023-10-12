@@ -160,42 +160,42 @@
         "precio": 1000
     },
     {
-        "id": "Pitas",
+        "id": "Leashes",
         "titulo": "Pita 6'",
-        "imagen": "./assets/Imagenes/Pitas/6.png",
+        "imagen": "./assets/Imagenes/Leashes/6.png",
         "categoria": {
-            "nombre": "Pitas",
-            "id": "Pitas"
+            "nombre": "Leashes",
+            "id": "Leashes"
         },
         "precio": 1000
     },
     {
-        "id": "Pitas",
+        "id": "Leashes",
         "titulo": "Pita 7'",
-        "imagen": "./assets/Imagenes/Pitas/7.png",
+        "imagen": "./assets/Imagenes/Leashes/7.png",
         "categoria": {
-            "nombre": "Pitas",
-            "id": "Pitas"
+            "nombre": "Leashes",
+            "id": "Leashes"
         },
         "precio": 1000
     },
     {
-        "id": "Pitas",
+        "id": "Leashes",
         "titulo": "Pita 9'",
-        "imagen": "./assets/Imagenes/Pitas/9.png",
+        "imagen": "./assets/Imagenes/Leashes/9.png",
         "categoria": {
-            "nombre": "Pitas",
-            "id": "Pitas"
+            "nombre": "Leashes",
+            "id": "Leashes"
         },
         "precio": 1000
     },
     {
-        "id": "Pitas",
+        "id": "Leashes",
         "titulo": "Pita 10'",
-        "imagen": "./assets/Imagenes/Pitas/10.png",
+        "imagen": "./assets/Imagenes/Leashes/10.png",
         "categoria": {
-            "nombre": "Pitas",
-            "id": "Pitas"
+            "nombre": "Leashes",
+            "id": "Leashes"
         },
         "precio": 1000
     }
