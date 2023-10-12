@@ -52,12 +52,9 @@ aside {
     font-size: 1.3rem;
 }
 .laOla{
-    margin-top: 1rem;
-    margin-left: 1rem;
-    padding: 0.7rem;
+    padding: 2rem;
     height: 25vh;
     border-radius: 200px;
-    border:solid 2px var(--clr-gray);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
