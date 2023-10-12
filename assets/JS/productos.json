@@ -103,7 +103,7 @@
     {
         "id": "Leash 8'",
         "titulo": "Leash 8'",
-        "imagen": "./assets/img/Leashes/8.Jpg",
+        "imagen": "./assets/img/Leashes/8.jpg",
         "categoria": {
             "nombre": "Leashes",
             "id": "Leashes"
