@@ -63,7 +63,16 @@ aside {
     justify-content: space-between;
 
 }
-
+.LaOlaMobile{
+    margin-left: 1rem;
+    padding: 0.5rem;
+    height: 15vh;
+    border-radius: 200px;
+    border: 2px solid var(--clr-gray);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 .menu {
     display: flex;
     flex-direction: column;
